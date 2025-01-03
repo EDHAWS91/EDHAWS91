@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EDHAWS91
-- 👀 I’m interested in AI Arcitecture and AI Performance monitoring 
+- 👀 I’m interested in AI Architecture and AI Performance monitoring 
 - 🌱 I’m currently learning Python and AI Agents
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
